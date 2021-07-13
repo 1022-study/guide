@@ -1,0 +1,28 @@
+#divs{
+  display: block;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5%;
+  padding-right: 5%;
+  width: 80%;
+}
+
+.divG{
+    background:url(http://drive.google.com/uc?export=view&id=1-wEFLWu3QVCe4LIaIZle8ApoU3xguMXp);
+    background-size: 60%;
+    background-position-x: center;
+    background-repeat: no-repeat;
+  margin: 15px;
+  width: 212px;
+  height: 200px;
+  border: solid black 1px;
+  display: inline-block;
+}
+
+.pG{
+  background: gray;
+  margin-top: 160px;
+  text-align: center;
+  font-size: 35px;
+}

@@ -1,0 +1,34 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+button{
+    border: solid black 1px;
+    border-radius: 5px;
+    background: transparent;
+    margin: 20px;
+    padding: 7px 10px 7px 10px;
+}
+
+.encabezado{
+    /*background:url(https://lh3.googleusercontent.com/4jVUNIPjOmWLnMJF_r1fYNH5_spWoxGPRED-zi-kGBFTshKoWGXJPX_l6M9b-g3ADMyqW3BBjhpB=w314-h88-p);
+    background-repeat: no-repeat;
+    background-size:cover;*/
+    background: rgb(118, 136, 148);
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    text-align: center;
+    height: 250px;
+}
+
+#title{
+    font-size: 70px;
+    padding-top: 45px;
+}
+
+#menu{
+    text-align: left;
+    padding:  15px 0px 0px 25px;
+}
